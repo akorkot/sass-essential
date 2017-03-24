@@ -1,0 +1,50 @@
+div {
+  margin-bottom: 40px;
+  padding: 20px; }
+
+.par1 {
+  font-size: 18px !important;
+  color: black; }
+
+.par2 {
+  font-size: 16px !important;
+  color: black; }
+
+nav li {
+  display: block;
+  float: none; }
+nav a {
+  color: red !important; }
+
+html,
+body,
+ul,
+ol {
+  margin: 0;
+  padding: 0; }
+
+h1 {
+  display: none; }
+
+.box {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  border-radius: 20px;
+  background: orange; }
+
+.message, .success, .error, .warning {
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: #333; }
+
+.success {
+  background-color: green; }
+
+.error {
+  background-color: red; }
+
+.warning {
+  background-color: yellow; }
+
+/*# sourceMappingURL=style.css.map */
